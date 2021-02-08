@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Arithmetic calculator</string>
+    <string name="submit">submit</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="addition">Addition</string>
+    <string name="multiplication">multiplication</string>
+    <string name="reset">reset</string>
+    <string name="divison">divison</string>
+    <string name="numberfirst">Enter value of First Number</string>
+    <string name="secondnumber">Enter value of Second Number</string>
+    <string name="result">RESULT</string>
+    <string name="number_1_error">Enter Valid input</string>
+    <string name="number_2_error">Enter Valid input</string>
+    <string name="modulus">modulus</string>
+</resources>
